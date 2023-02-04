@@ -1,2 +1,2 @@
 # Emojipedia
-Created with CodeSandbox
+A React App to learn actual meaning of Emojis.
